@@ -1,1 +1,1 @@
-# Multivariate-Multiple-Regressor
+# Hand-Written-Digits-Classifier
